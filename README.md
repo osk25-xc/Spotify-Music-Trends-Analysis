@@ -1,3 +1,7 @@
+![Dashboard preview](screenshots/overview.svg)
+
+> Preview illustration built from synthetic sample data; it is not a screenshot of a live Power BI report.
+
 # Spotify Music Trends Analysis
 
 ## Project overview
